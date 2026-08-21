@@ -56,20 +56,20 @@
 ## 🏆 GitHub 荣誉与概览 (Trophies & Stats)
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cuic19053-hue&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" />
+  <img src="https://raw.githubusercontent.com/cuic19053-hue/cuic19053-hue/main/assets/trophy.svg" alt="Trophies" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cuic19053-hue&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=CBD5E1&icon_color=A855F7&border_radius=8" height="170" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cuic19053-hue&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=38BDF8" height="170" alt="Streak" />
+  <img src="https://raw.githubusercontent.com/cuic19053-hue/cuic19053-hue/main/assets/stats.svg" height="170" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/cuic19053-hue/cuic19053-hue/main/assets/streak.svg" height="170" alt="Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuic19053-hue&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=CBD5E1&border_radius=8" height="160" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/cuic19053-hue/cuic19053-hue/main/assets/top-langs.svg" height="160" alt="Top Languages" />
 </div>
 
 ---

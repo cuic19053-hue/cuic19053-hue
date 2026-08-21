@@ -1,0 +1,36 @@
+name: Update Trophy SVGs
+
+on:
+  schedule:
+    - cron: '30 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-svgs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch latest SVGs
+        run: |
+          mkdir -p assets
+          curl -sL --fail -o assets/trophy.svg "https://github-profile-trophy.vercel.app/?username=cuic19053-hue&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=7"
+          curl -sL --fail -o assets/stats.svg "https://github-readme-stats.vercel.app/api?username=cuic19053-hue&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=CBD5E1&icon_color=A855F7&border_radius=8"
+          curl -sL --fail -o assets/streak.svg "https://streak-stats.demolab.com/?user=cuic19053-hue&theme=dark&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=38BDF8"
+          curl -sL --fail -o assets/top-langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=cuic19053-hue&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=CBD5E1&border_radius=8"
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          if git diff --quiet && git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update profile SVGs"
+            git push
+          fi
