@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:3b0764,100:7c3aed&height=200&section=header&text=XINGCHEN%20%7C%20AI%20BUILDER&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:3b0764,100:7c3aed&height=200&section=header&text=XINGCHEN&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38" width="100%" alt="Header Banner" />
 
 <!-- Dynamic Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=Hi+there!+I%27m+Xingchen+%F0%9F%91%8B;Sophomore+%40+AI+Application+Explorer;Building+Next-Gen+AI+Agents+%26+RAG+Systems;Driven+by+Python%2C+TypeScript+%26+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=C084FC&center=true&vCenter=true&width=620&lines=Hi+there!+I%27m+Xingchen;A+student+still+learning;Curious+about+AI+apps+%26+LLMs;Always+open+to+advice" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -29,20 +29,20 @@
 {
   "name": "星辰 (Xingchen)",
   "education": "高校大二在读 (Sophomore)",
-  "focus_areas": ["AI Agent 智能体架构", "大模型应用落地 (LLM Apps)", "RAG 检索增强生成"],
-  "philosophy": "用工程化思维做 AI 产品化，代码优雅，体验极致",
+  "focus_areas": ["AI Agent 智能体", "大模型应用", "RAG"],
+  "philosophy": "谦虚好学，持续进步",
   "email": "ch6666666123@qq.com"
 }
 ```
 
-- 🎓 **高校大二在读**：专注于人工智能应用层开发与前沿技术探索。
-- 🚀 **AI 智能体实践者**：研究 LLM Workflow、Multi-Agent 协作体系与 RAG 知识库系统构建。
-- 💡 **追求**：探索 AI 产品化落地，兼顾代码优雅与系统高可用。
-- 🤝 **开源与交流**：热衷交流大模型应用开发方案与项目合作，欢迎通过邮件联系！
+- 🎓 **高校大二在读**：对人工智能应用开发感兴趣，还在学习中。
+- 🔭 **近期在做**：边学边做，捣鼓 LLM Workflow、Multi-Agent 协作和 RAG 知识库。
+- 🌱 **目标**：把基础打牢，多向大佬们学习，踏实做点小项目。
+- 📬 **交流**：欢迎邮件交流，多多指教。
 
 ---
 
-## 🛠️ 武器库 (Tech Stack Matrix)
+## 🛠️ 技术栈 (Tech Stack)
 
 | 分类 (Category) | 核心技术 Stack |
 | :--- | :--- |
@@ -56,20 +56,20 @@
 ## 🏆 GitHub 荣誉与概览 (Trophies & Stats)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cuic19053-hue/cuic19053-hue/main/assets/trophy.svg" alt="Trophies" />
+  <img src="https://cdn.jsdelivr.net/gh/cuic19053-hue/cuic19053-hue@main/assets/trophy.svg" alt="Trophies" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cuic19053-hue/cuic19053-hue/main/assets/stats.svg" height="170" alt="Stats" />
-  <img src="https://raw.githubusercontent.com/cuic19053-hue/cuic19053-hue/main/assets/streak.svg" height="170" alt="Streak" />
+  <img src="https://cdn.jsdelivr.net/gh/cuic19053-hue/cuic19053-hue@main/assets/stats.svg" height="170" alt="Stats" />
+  <img src="https://cdn.jsdelivr.net/gh/cuic19053-hue/cuic19053-hue@main/assets/streak.svg" height="170" alt="Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/cuic19053-hue/cuic19053-hue/main/assets/top-langs.svg" height="160" alt="Top Languages" />
+  <img src="https://cdn.jsdelivr.net/gh/cuic19053-hue/cuic19053-hue@main/assets/top-langs.svg" height="160" alt="Top Languages" />
 </div>
 
 ---
