@@ -30,7 +30,7 @@
   "name": "星辰 (Xingchen)",
   "education": "高校大二在读 (Sophomore)",
   "focus_areas": ["AI Agent 智能体", "大模型应用", "RAG"],
-  "philosophy": "谦虚好学，持续进步",
+  "philosophy": "wowdaaaaa",
   "email": "ch6666666123@qq.com"
 }
 ```
