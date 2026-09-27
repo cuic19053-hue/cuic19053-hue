@@ -1,4 +1,4 @@
-# Hi, I'm stardust (星辰) 👋
+# Hi, I'm stardust 👋
 
 > **高校在读 · 开源探索者 · AI 应用与 Agent 智能体实践**  
 > *"Exploring the frontiers of AI agents & pragmatic engineering with boundless curiosity."*
@@ -16,12 +16,12 @@
 
 ### 🚀 精选开源项目 / Featured Projects
 
-| 项目名称 / Repository | 核心亮点与定位 | 技术栈 / Tech Stack | 状态 / Link |
+| 项目名称 / Repository | 核心亮点与定位 | 技术栈 / Tech Stack | Stars & Forks |
 | :--- | :--- | :--- | :--- |
-| [**awesome-student-ai-skills**](https://github.com/cuic19053-hue/awesome-student-ai-skills) | 35+ 大学生申报书/商业计划书 AI Skill 标准集合，一句话生成规范材料 | Prompt Engineering / Agent Skills / Python | `Public` · [查看项目 →](https://github.com/cuic19053-hue/awesome-student-ai-skills) |
-| [**awesome-system-prompts**](https://github.com/cuic19053-hue/awesome-system-prompts) | Sovereign Prompt Stack：面向推理大模型与智能体的系统级行为契约与规范栈 | System Prompts / LLM Governance / Agent Spec | `Public` · [查看项目 →](https://github.com/cuic19053-hue/awesome-system-prompts) |
-| [**X-Cleaner**](https://github.com/cuic19053-hue/X-Cleaner) | 极简、高性能的推特 (X.com) 智能净化与动态清理引擎 | JavaScript / UserScript / DOM Engine | `Public` · [查看项目 →](https://github.com/cuic19053-hue/X-Cleaner) |
-| [**Awarded-Meituan-Nocode-Project**](https://github.com/cuic19053-hue/Awarded-Meituan-Nocode-Project) | 智能会议室预约与流转系统（美团无代码赛题获奖方案） | Full-Stack / Workflow Automation / Low-Code | `Awarded` · [查看项目 →](https://github.com/cuic19053-hue/Awarded-Meituan-Nocode-Project) |
+| [**awesome-student-ai-skills**](https://github.com/cuic19053-hue/awesome-student-ai-skills) | 35+ 大学生申报书/商业计划书 AI Skill 标准集合，一句话生成规范材料 | Prompt Engineering / Agent Skills / Python | [![Stars](https://img.shields.io/github/stars/cuic19053-hue/awesome-student-ai-skills?style=flat-square&logo=github)](https://github.com/cuic19053-hue/awesome-student-ai-skills/stargazers) [![Forks](https://img.shields.io/github/forks/cuic19053-hue/awesome-student-ai-skills?style=flat-square&logo=github)](https://github.com/cuic19053-hue/awesome-student-ai-skills/network/members) |
+| [**awesome-system-prompts**](https://github.com/cuic19053-hue/awesome-system-prompts) | Sovereign Prompt Stack：面向推理大模型与智能体的系统级行为契约与规范栈 | System Prompts / LLM Governance / Agent Spec | [![Stars](https://img.shields.io/github/stars/cuic19053-hue/awesome-system-prompts?style=flat-square&logo=github)](https://github.com/cuic19053-hue/awesome-system-prompts/stargazers) [![Forks](https://img.shields.io/github/forks/cuic19053-hue/awesome-system-prompts?style=flat-square&logo=github)](https://github.com/cuic19053-hue/awesome-system-prompts/network/members) |
+| [**X-Cleaner**](https://github.com/cuic19053-hue/X-Cleaner) | 极简、高性能的推特 (X.com) 智能净化与动态清理引擎 | JavaScript / UserScript / DOM Engine | [![Stars](https://img.shields.io/github/stars/cuic19053-hue/X-Cleaner?style=flat-square&logo=github)](https://github.com/cuic19053-hue/X-Cleaner/stargazers) [![Forks](https://img.shields.io/github/forks/cuic19053-hue/X-Cleaner?style=flat-square&logo=github)](https://github.com/cuic19053-hue/X-Cleaner/network/members) |
+| [**Awarded-Meituan-Nocode-Project**](https://github.com/cuic19053-hue/Awarded-Meituan-Nocode-Project) | 智能会议室预约与流转系统（美团无代码赛题获奖方案） | Full-Stack / Workflow Automation / Low-Code | [![Stars](https://img.shields.io/github/stars/cuic19053-hue/Awarded-Meituan-Nocode-Project?style=flat-square&logo=github)](https://github.com/cuic19053-hue/Awarded-Meituan-Nocode-Project/stargazers) [![Forks](https://img.shields.io/github/forks/cuic19053-hue/Awarded-Meituan-Nocode-Project?style=flat-square&logo=github)](https://github.com/cuic19053-hue/Awarded-Meituan-Nocode-Project/network/members) |
 
 ---
 
