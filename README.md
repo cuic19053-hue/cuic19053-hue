@@ -52,6 +52,7 @@ Dev & Ops     : Git, GitHub Actions, Docker, Linux, macOS
 
 ### 📬 保持联系 / Connect
 
+- **Email** : [cuic19053@gmail.com](mailto:cuic19053@gmail.com)
 - **Email** : [ch6666666123@qq.com](mailto:ch6666666123@qq.com)
 - **GitHub**: [@cuic19053-hue](https://github.com/cuic19053-hue)
 
