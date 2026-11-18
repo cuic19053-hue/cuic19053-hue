@@ -4,20 +4,12 @@
 
 *Undergraduate building AI agents, education tools, and accessible apps.*
 
-## 正在做 · Stardust Agent
+## 置顶项目 · Pinned Projects
 
-一个面向大学生的开源申报材料工作台。学生可以上传学校通知和项目资料，检索申报要求，起草大创项目、挑战杯和奖学金申请等材料，再逐章编辑并导出 Word。
-
-*An open-source workspace for student proposals and scholarship applications, with document search, section-by-section editing, and Word export.*
-
-[打开在线工作台](https://agent.stardust.website) · [查看源代码](https://github.com/cuic19053-hue/stardust-agent) · [大创 Word 样例](https://github.com/cuic19053-hue/stardust-agent/blob/main/examples/demos/demo_innovation_research.docx)
-
-## 精选项目 · Projects
-
-- **LearnHouse MCP** 为 LearnHouse 学习平台提供 MCP 工具，让 Agent 管理课程、章节和学习活动，并查询学习进度。 [仓库](https://github.com/cuic19053-hue/learnhouse-mcp)
-- **光语助手（LuminaAssist）** 是面向视障和高龄用户的鸿蒙语音助手，可拍照读文字、识别物品并语音播报。 [仓库](https://github.com/cuic19053-hue/LuminaAssist-Open)
-- **AgentGuard** 为 AI Agent 提供代理层保护，用于限制循环重试、拦截危险工具调用和控制 API 开销。 [仓库](https://github.com/cuic19053-hue/agent-guard)
 - **OpenTake** 是一款跨平台开源 AI 视频编辑器，使用 Rust、Tauri 2 和 React 构建。 [GitHub Fork](https://github.com/cuic19053-hue/OpenTake)
+- **Stardust Agent** 是面向大学生的开源申报工作台，支持检索学校通知和项目资料，逐章起草与编辑大创、挑战杯和奖学金申请材料，并导出 Word。 [在线工作台](https://agent.stardust.website) · [仓库](https://github.com/cuic19053-hue/stardust-agent) · [大创 Word 样例](https://github.com/cuic19053-hue/stardust-agent/blob/main/examples/demos/demo_innovation_research.docx)
+- **media-down** 是一款 macOS 音视频下载工具，基于 yt-dlp 和 FFmpeg，支持从剪贴板读取链接、提取音频和发送系统通知。 [仓库](https://github.com/cuic19053-hue/media-down)
+- **光语助手（LuminaAssist）** 是面向视障和高龄用户的鸿蒙语音助手，可拍照读文字、识别物品并语音播报。 [仓库](https://github.com/cuic19053-hue/LuminaAssist-Open)
 
 ## 联系我 · Contact
 
