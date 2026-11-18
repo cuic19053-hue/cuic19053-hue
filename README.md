@@ -23,4 +23,4 @@
 
 欢迎在仓库里开 Issue 或提交 PR，也可以发邮件交流。
 
-[Gmail](mailto:cuic19053@gmail.com) · [QQ 邮箱](mailto:ch6666666123@qq.com)
+Gmail `cuic19053@gmail.com` · QQ 邮箱 `ch6666666123@qq.com`
